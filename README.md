@@ -2,10 +2,10 @@
   # batch-system
 
 
-FrameWork: ReactJS
-CSS: Tailwind
+FrameWork: ReactJS <br />
+CSS: Tailwind <br />
 
 # Get Started
-. clone repository
-. npm install
-. npm start
+. clone repository <br />
+. npm install <br />
+. npm start <br />
