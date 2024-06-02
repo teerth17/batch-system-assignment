@@ -103,7 +103,7 @@ const AppLandingPage = () => {
         src="/star-8.svg"
       />
       <img
-        className="absolute top-[calc(50%_-_2750.5px)] left-[calc(50%_+_173px)] w-[371.8px] h-[552.4px] object-contain"
+        className="absolute top-[calc(50%_-_2750.5px)] left-[calc(50%_+_140px)] w-[371.8px] h-[552.4px] object-contain"
         alt=""
         src="/iphone13profront@2x.png"
       />
